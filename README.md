@@ -1,5 +1,5 @@
 # hosprapido
 
-virtualenv env
-pip install -r requirements.txt
-python hosprapido.py
+virtualenv env <br/>
+pip install -r requirements.txt <br/>
+python hosprapido.py <br/>
